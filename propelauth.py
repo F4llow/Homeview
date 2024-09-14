@@ -1,4 +1,3 @@
-
 from propelauth_py import init_base_auth, UnauthorizedException
 from streamlit.web.server.websocket_headers import _get_websocket_headers
 import requests
@@ -60,6 +59,7 @@ def get_cookie(cookie_name):
 
     return None
 
+# Configuration, please edit
 auth = Auth(
     "",
     ""
