@@ -1,1 +1,1 @@
-streamlit run ui.py
+python3.11 -m streamlit run ui.py
