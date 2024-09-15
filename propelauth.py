@@ -63,6 +63,6 @@ def get_cookie(cookie_name):
 
 # Configuration, please edit
 auth = Auth(
-    "https://auth.homeview.studio",
-    "ad6d9ee78842e20a08652805026306f464f9927ff32867c2170ba66c567de74c607106643686f0713f89e5d14ce5aa1c"
+    "",
+    ""
 )
