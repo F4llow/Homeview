@@ -16,5 +16,4 @@ in the second terminal, ```run streamlit run app.py```
 this then starts the application on port 8501.
 this page can only be accessed after authenticating on port 8000
 
-Kaggle Data set: https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
-DO NOT try to put data directly in github
+
